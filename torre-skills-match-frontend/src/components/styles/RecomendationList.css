@@ -1,0 +1,19 @@
+.RecomendationList__container{
+    margin-top: 20px;
+}
+
+.RecomendationList__container-title{
+    font-size: 20px;
+}
+
+.RecomendationList__container-itembox{
+    background-color: white;
+    border-radius: 2px;
+    padding: 15px;
+    margin-top: 10px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
+}
+
+.RecomendationList__container-itemtext{
+    font-size: 18px;
+}

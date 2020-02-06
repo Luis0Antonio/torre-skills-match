@@ -1,0 +1,65 @@
+.Reputation__container{
+    margin-top: 20px;
+    
+}
+
+.Reputation__container-title{
+    font-size: 20px;
+}
+
+.Reputation__container-itembox{
+    background-color: white;
+    border-radius: 2px;
+    padding-top: 15px;
+    margin-top: 10px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
+}
+
+.Reputation__container-itembox-container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+    margin-right: 15px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Reputation__container-itembox-number{
+    display: flex;
+    flex-direction: column;
+}
+
+.Reputation__container-itembox-number-label{
+    font-size: 22px;
+}
+
+.Reputation__container-itembox-number-value{
+    font-size: 28px;
+    margin-top: -10px;
+}
+
+.Reputation__container-itemtext{
+    font-size: 20px;
+    width: 300px;
+}
+
+.Reputation__container-statusbox{
+    width: 100%;
+    height: 20px;
+}
+
+.Reputation__container-statusbox-red{
+    background-color: #F44D4D;
+}
+
+.Reputation__container-statusbox-green{
+    background-color: #66DF72;
+}
+
+.Reputation__container-statusbox-blue{
+    background-color: #6380D9;
+}
+
+.Reputation__container-statusbox-yellow{
+    background-color: #F0F76C;
+}

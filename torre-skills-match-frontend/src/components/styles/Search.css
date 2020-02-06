@@ -1,0 +1,27 @@
+.Search__container{
+    margin-top: 20px;
+    border-radius: 6px;
+    background-color: white;
+    padding: 25px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
+}
+
+.Search__container-label{
+    color: #00ACC1;
+}
+
+.Search__container-input{
+    min-width: 100px;
+    width: 70%;
+    outline: none;
+}
+
+.Search__container-input:focus{
+    outline: none;
+}
+
+.Search__container-button{
+    background-color: #00ACC1;
+    color: white;
+    margin-left: 5px;
+}

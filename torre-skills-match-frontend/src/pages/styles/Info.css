@@ -1,0 +1,25 @@
+.Info__container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;  
+    margin-top: 50px;
+}
+
+.Info__container-text{
+    font-size: 22px;
+    font-weight: 600;
+    color: #353535;
+    text-align: center;
+    width: 500px;
+}
+
+@media screen and (max-width: 800px) {
+    .Info__container-text{
+        font-size: 20px;
+        width: 100%;
+        padding-left: 50px;
+        padding-right: 50px;
+    }   
+}

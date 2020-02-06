@@ -1,0 +1,19 @@
+.Hero__container{
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0px;
+    background-color: #00ACC1;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+
+.Hero__content-text{
+    font-size: 36px;
+    font-weight: 900;
+    color: #ffffff;
+    text-align: center;
+    width: 600px;
+}
+

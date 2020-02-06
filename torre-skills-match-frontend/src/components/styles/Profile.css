@@ -1,0 +1,48 @@
+.Profile__container{
+    margin-top: 20px;
+    border-radius: 6px;
+    background-color: white;
+    padding: 25px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Profile__container-picture{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.Profile__container-name{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.Profile__container-weight-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Profile__container-weight{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.Profile__container-icon{
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 5px;
+}
+
+.Profile__container-button{
+    background-color: #00ACC1;
+    color: white !important;
+    margin-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 2px;
+}
